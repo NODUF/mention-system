@@ -1,10 +1,7 @@
 # Mention-system
-### Very simple script for your server.
-Once they have that permission they will be able to send a players name in chat, the receiver will get a EXP sound in their end making sure that they are their.
+### Very simple mention-system for your server.
+It works the same as on discord, messenger... In chat you type player's name and the receiver got mention. 
+### [Download here](https://github.com/NODUF/mention-system/releases)
 
-### Version 0.0.1
-- [Download](https://github.com/NODUF/mention-system/releases)
-
-
-### Dependency
-- [Skript](https://github.com/SkriptLang/Skript/releases)
+## Dependency
+#### - [Skript](https://github.com/SkriptLang/Skript/releases)
