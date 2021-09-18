@@ -1,0 +1,18 @@
+# MENTION SYSTEM
+# VERSION 0.0.1
+# MADE BY NODUF
+
+#SETTINGS
+options:
+    style: &e&o #COLORS, FILL FREE TO CHANGE
+	mention-sound: "ENTITY_ARROW_HIT_PLAYER" #SOUND EFFECT, FILL FREE TO CHANGE
+    mention-message: "&eYOU HAVE BEEN PINGED"
+
+
+#SCRIPT
+	loop all players:
+		if message contains "%loop-value%":
+			replace "%loop-value%" with "{@style}@%loop-value%&r" in message
+			set {_player} to "%loop-value%" parsed as player
+			play sound {@mention-sound} with volume 0.5 with pitch 1 at {_player} for {_player}
+			send action bar {@mention-message} to loop-value
