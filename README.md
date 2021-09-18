@@ -4,3 +4,7 @@ Once they have that permission they will be able to send a players name in chat,
 
 ### Version 0.0.1
 - [Download](https://github.com/NODUF/mention-system/releases)
+
+
+### Dependency
+- [Skript](https://github.com/SkriptLang/Skript/releases)
