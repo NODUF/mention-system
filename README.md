@@ -4,4 +4,4 @@ It works the same as on discord, messenger... In chat you type player's name and
 ### [Download here](https://github.com/NODUF/mention-system/releases)
 
 ## Dependency
-#### - [Skript](https://github.com/SkriptLang/Skript/releases)
+- [Skript](https://github.com/SkriptLang/Skript/releases)
