@@ -2,5 +2,4 @@
 Very simple script for your server.
 
 
-DOWNLAOD
-[a relative link](other_file.md)
+[Download - newest version](other_file.md)
